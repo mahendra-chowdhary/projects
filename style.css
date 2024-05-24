@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(241, 26, 26);
+}
+
+
+#myid {
+    color: blue;
+    background-color: yellow;
+}
+
+
+.myclass {
+    background-color: orange;
+    color: aliceblue;
+}
+
+.box {
+    height: 75px;
+    width: 75px;
+    background-color: darkcyan;
+    color: black;
+    text-align: center;
+    margin: 5px;
+}
+
+.para1 {
+    background-color: chartreuse;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
